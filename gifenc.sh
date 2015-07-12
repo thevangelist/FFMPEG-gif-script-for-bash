@@ -1,7 +1,4 @@
 #!/bin/sh
-#
-# Usage: ./gifenc [input] [output] [horizontal resolution for output] [fps]
-# "./gifenc input.mov output.gif 720 10" will output 720p wide 10fps gif from the mov
 
 palette="/tmp/palette.png"
 
