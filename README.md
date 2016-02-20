@@ -20,6 +20,6 @@ Outputs palette-mapped .gifs with great colours & desired resolution from your v
 ## Examples
 
 ![Coding example](coding.gif)
-![Gliding example](http://koti.kapsi.fi/~esajuhana/gifs/hanging.gif)
+![Gliding example](gliding.gif)
 
 Special thanks to [this article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html).
