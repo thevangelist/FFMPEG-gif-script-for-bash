@@ -1,6 +1,6 @@
 # FFMPEG gif script for bash
 
-![Football](nisula-2018-07-04-slomo.gif)
+![Football](nisula-2018-07-04-slomo-200.gif)
 ![Coding example](coding.gif)
 ![Gliding example](gliding.gif)
 
